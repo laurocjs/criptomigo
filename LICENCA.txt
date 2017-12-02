@@ -1,0 +1,6 @@
+Criado por Lauro César Jacques Santos.
+Disponível em: github.com/laurocjs/criptomigo
+
+A licença desse código é aberta, você é livre para usar, copiar, modificar, distribuir e criar trabalhos relacionados, seja para uso pessoal, educacional ou comercial, porém deve manter este arquivo LICENCA.txt na pasta raiz do seu projeto sem alterações e disponibilizá-lo juntamente com o seu trabalho. Os códigos são oferecidos da maneira apresentada, sem quaisquer garantias.
+
+Não é necessário, mas caso utilize o código ou ele seja útil de alguma forma, teria grande apreço por receber uma mensagem no meu perfil do github.
