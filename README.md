@@ -1,7 +1,7 @@
 # criptomigo
 Sistema de amigo oculto utilizando criptografia RSA
 
-Leia o arquivo LICENCA.txt.
+Leia o arquivo LICENCE.
 Os arquivos contidos aqui servem para realizar um sorteio utilizando chaves públicas e privadas RSA.
 
 Utilização:
